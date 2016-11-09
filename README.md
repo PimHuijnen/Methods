@@ -5,7 +5,7 @@ The purpose of this course is to familiarize students of the Research MA program
 This course is split up in two parts to acquaint students with tools for the analysis of, respectively, unstructured (textual) and structured (numerical) historical data. Students are trained in the offered analytical tools in a ‘hands on’ setting, in which they work on their own research projects. During the first part of this course, students will work in groups on a comparative study of two (or more) texts or corpora. The research projects are meant to compare the methods of conventional comparative research with the functionalities that computational techniques from corpuslinguistics and unsupervised clustering (topic modeling) offer. Students will have to reflect in their research projects on the opportunities, but also the risks and pitfalls of digital tools for this type of historical study. More generally, they will evaluate and discuss the strengths and weaknesses of a selection of books, articles, and working papers that employ digital humanities methods with these tools.
 
 ## Week 1: Introduction
-Introducion to the course & starting up research projects
+Introduction to the course & starting up research projects
 
 ### Readings week 1
 * Tim Hitchcock, 'Confronting the Digital. Or: How Academic History Writing Lost the Plot', Cultural and Social History 10 (2013), pp. 9-23.
@@ -31,8 +31,12 @@ Topic modeling
 
 ### Readings week 3
 * John W. Mohr, Petko Bogdanov, ‘Topic models: What they are and why they matter’, Poetics 41 (2013) 545-569
-* Cameron Blevins, 'Topic Modeling Martha Ballard's Diary', Cameronblevins.org, April 1 (2010): http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/
-* Introduction of Mining the Dispatch website: http://dsl.richmond.edu/dispatch/pages/intro
+* Cameron Blevins, ['Topic modeling Martha Ballard's diary](http://www.cameronblevins.org/posts/topic-modeling-martha-ballards-diary/), Cameronblevins.org, April 1 (2010)
+* Introduction of [Mining the Dispatch website](http://dsl.richmond.edu/dispatch/pages/intro)
+
+### Resources week 3
+
+[Mallet LDA website](http://mallet.cs.umass.edu/index.php)
 
 ## Week 4
 The future of Digital History & students' presentations
