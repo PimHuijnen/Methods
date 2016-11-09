@@ -21,9 +21,6 @@ Corpuslinguistics & the use of AntConc for the study of history
 * Trevor Owens, ‘Defining data for humanists: text, artifact, information or evidence?’, Journal of Digital Humanities 1 (2011)
 
 ### Rescources week 2
-
-<a href="http://www.laurenceanthony.net/software/antconc/" target="_blank">AntConc website</a>
-
 [AntConc website](http://www.laurenceanthony.net/software/antconc// "AntConc website")
 
 [AntConc tutorials on Youtube](https://www.youtube.com/user/AntlabJPN/ "AntConc tutorials")
@@ -37,7 +34,6 @@ Topic modeling
 * Introduction of [Mining the Dispatch website](http://dsl.richmond.edu/dispatch/pages/intro)
 
 ### Resources week 3
-
 [Mallet LDA website](http://mallet.cs.umass.edu/index.php)
 
 ## Week 4
@@ -46,4 +42,4 @@ The future of Digital History & students' presentations
 ### Readings week 4
 * Jean-Baptiste Michel et al. 'Quantitative Analysis of Culture Using Millions of Digitized Books', Science 331 (2011), pp. 176 -182
 * Eitan A. Pechenick et.al., ‘Characterizing the Google Books Corpus: Strong limits to inferences of socio-cultural and linguistic evolution’, PLOS One 10 (2015)
-* David Berry, 'Post-Digital Humanities: Computation and Cultural Critique in the Arts and Humanities', Educause Review 19-05-2014
+* David Berry, ['Post-Digital Humanities: Computation and Cultural Critique in the Arts and Humanities'](http://er.educause.edu/articles/2014/5/postdigital-humanities-computation-and-cultural-critique-in-the-arts-and-humanities), Educause Review 19-05-2014
