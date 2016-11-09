@@ -22,8 +22,8 @@ Corpuslinguistics & the use of AntConc for the study of history
 
 ### Rescources week 2
 
-[AntConc website] (http://www.laurenceanthony.net/software/antconc// "AntConc website")
-[AntConc tutorials on Youtube] (https://www.youtube.com/user/AntlabJPN/ "AntConc tutorials")
+[AntConc website](http://www.laurenceanthony.net/software/antconc// "AntConc website")
+[AntConc tutorials on Youtube](https://www.youtube.com/user/AntlabJPN/ "AntConc tutorials")
 
 ## Week 3
 Topic modeling
