@@ -22,7 +22,7 @@ Corpuslinguistics & the use of AntConc for the study of history
 
 ### Rescources week 2
 
-<a href="http://www.laurenceanthony.net/software/antconc/" target="_blank">AntConc wwebsite</a>
+<a href="http://www.laurenceanthony.net/software/antconc/" target="_blank">AntConc website</a>
 
 [AntConc website](http://www.laurenceanthony.net/software/antconc// "AntConc website")
 
