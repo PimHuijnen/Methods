@@ -20,6 +20,11 @@ Corpuslinguistics & the use of AntConc for the study of history
 * Michael Pearce, ‘Investigating the collocational behaviour of man and woman in the BNC using Sketch Engine’, Corpora 3 (2008) 1-29.
 * Trevor Owens, ‘Defining data for humanists: text, artifact, information or evidence?’, Journal of Digital Humanities 1 (2011)
 
+### Rescources week 2
+
+[AntConc website] (http://www.laurenceanthony.net/software/antconc// "AntConc website")
+[AntConc tutorials on Youtube] (https://www.youtube.com/user/AntlabJPN/ "AntConc tutorials")
+
 ## Week 3
 Topic modeling
 
